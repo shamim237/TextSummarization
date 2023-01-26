@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 
 def extract(link):
     url = link
-    driver_path = "chromedriver.exe"
+    driver_path = "./chromedriver.exe"
     browser = Chrome(executable_path = driver_path)
     browser.get(url)
     data = browser.find_element(By.ID,"aplus_feature_div")
