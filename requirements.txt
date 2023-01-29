@@ -1,5 +1,8 @@
+nlpaug==1.1.11
+nltk
 selenium==4.8.0
 sentencepiece==0.1.97
+streamlit==1.17.0
+sumy==0.11.0
 torch==1.13.1
 transformers==4.25.1
-webdriver-manager
