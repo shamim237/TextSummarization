@@ -1,7 +1,7 @@
 # TextSummarization
 
 ### download or clone this repository in your system, then follow these instructions:
-- got to the folder where these codes are located
+- go to the folder where these codes are located
 - open the folder in Visual studio code or in Command prompt
 - run the following command
 ```
