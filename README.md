@@ -9,4 +9,6 @@ pip install -r requirements.txt
 python main.py 
 ```
 - wait for some time
-- you will get a text file as an output on that folder.
+- you will get a text file named as **result_doc.txt** as an output on that folder.
+
+#### That is all! Thank You.
